@@ -2,10 +2,12 @@
 ## Uxue Loizaga
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&pause=1000&color=696969FA&width=440&height=29&lines=Dual+Degree+Student%3A+CS+%2B+Data+Science+%26+AI;Driven+by+curiosity+%26+built+with+code;Web+Applications+%E2%80%A2+C%2FC%2B%2B+Servers+;Machine+Learning+%E2%80%A2+Quantum+Computing+;Game+Dev+%E2%80%A2+Robotics+%E2%80%A2+Smart+IoT)](https://git.io/typing-svg)
 
+
 ### About me
 - **Education:** Currently enrolled in a Double Degree in **Computer Engineering** & **Data Science and AI** at the University of Deusto (Expected 2029)[cite: 3].
 - **Experience:** Data Science & Software Engineering Intern at **Fundación Azterlan** (Currently working).
 - **Interests:** Deep Learning, Reinforcement Learning, Space Tech, Computer Vision, Robotics, and Smart Systems/Automation.
+---
 
 
 ### Tech Stack
@@ -34,6 +36,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+---
+
 
 ### Projects
 #### AI, Data & Quantum Research
@@ -50,6 +54,7 @@
 - **Camera-Guided Robotic Arm**: Real-time object tracking system with Computer Vision (built at LeRobot Hackathon).
 - [**IoT Smart Wardrobe**](https://github.com/UxueLo/DressCode): Automated clothing management system with Raspberry Pi and 2D avatar visualization.
 - [**The Last Quack**](https://github.com/UxueLo/TheLastQuack): 2.5D pixel art indie video game built in Unity with custom physics and collision logic.
+---
 
 
 ### Connect with Me
